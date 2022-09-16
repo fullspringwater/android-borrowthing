@@ -44,3 +44,9 @@
 
 ### 실행 화면
 
+
+### URL
+- 테이블 설계서 URL : https://www.erdcloud.com/d/nkBL3qYezYH993rSj
+- API 명세서 URL : https://documenter.getpostman.com/view/21511146/VUxLwU8Q
+- 서버 깃허브 URL : https://github.com/fullspringwater/aws-borrowthing-server
+- 프로젝트 기술서 URL : https://docs.google.com/presentation/d/174_j53JRkbvM00zhmGBc4ILLhdFF3gLaqkYo_bnpj68/edit#slide=id.g155187810e0_2_5
