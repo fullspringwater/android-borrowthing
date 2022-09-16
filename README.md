@@ -240,8 +240,26 @@
 ## 💿 Usage
 
 
-### 실행 영상
+### 실행 화면
+내 동네 인증하기
 
+![내 동네 설정](https://user-images.githubusercontent.com/105832330/190598030-437ae253-4a97-4ebc-ad60-24c278dacf41.gif)
+
+활동범위 설정하기
+
+![활동범위설정](https://user-images.githubusercontent.com/105832330/190598382-224291b6-5063-47e3-b0f9-76fba3a4a45c.gif)
+
+지도 - 주변 동네 보기
+
+![지도](https://user-images.githubusercontent.com/105832330/190598493-7f77bd86-01d9-420f-b114-e6e12163dff3.gif)
+
+
+채팅
+
+![채팅](https://user-images.githubusercontent.com/105832330/190598695-80e2d18d-aa69-4f0e-8bd7-3043c3460e66.gif)
+
+##
+### 실행 영상
 [![Video Label](http://img.youtube.com/vi/a1FU7Se3bkk/0.jpg)](https://youtu.be/a1FU7Se3bkk)
 
 
