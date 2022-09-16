@@ -240,7 +240,9 @@
 ## 💿 Usage
 
 
-### 실행 화면
+### 실행 영상
+
+[![Video Label](http://img.youtube.com/vi/a1FU7Se3bkk/0.jpg)](https://youtu.be/a1FU7Se3bkk)
 
 
 ### URL
