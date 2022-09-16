@@ -33,14 +33,31 @@
 - Serverless Flask Framework(AWS Lambda)
 - Storage : AWS S3
 - Database : AWS RDS
+##
+## 🛠 Used Skill
+✅UI 스레드 ANR(애플리케이션 응답 없음) 오류를 방지하기 위해 **Glide** 라이브러리를 사용하여 이미지를 로딩했습니다.
 
+
+✅ui 스레드 ANR(애플리케이션 응답 없음) 오류를 방지하기 위해 자체적으로 스레드를 생성하여 처리하는  **retrofit 2** 라이브러리를 사용하여 네트워크 연결 가능하게 했습니다.
+
+
+✅**Google 오픈 API**와 **Naver 오픈 API** 를 활용하여 앱 개발을 했습니다.
+
+
+✅복잡한 클래스의 객체를 이동하려는 경우에는 **Seriaizable** 을 사용하여 직렬화한 후 인텐트로 이동 가능하게 했습니다.
+
+✅**Firebase의 Realtime Database**를 사용하여 실시간 채팅 기능 구현
+
+
+##
 ## 💼 Recommendation System
 
 ✅ Item Based Collaborative Filtering (아이템 기반 협업 필터링)
 - 유사도가 높은 판매자의 상품을 추천했습니다,
 
-
+##
 ## 💿 Usage
+
 
 ### 실행 화면
 
