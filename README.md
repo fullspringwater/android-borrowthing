@@ -36,7 +36,7 @@
 ##
 ## 🛠 Used Skill
 
-### Android
+## Android
 ✅UI 스레드 ANR(애플리케이션 응답 없음) 오류를 방지하기 위해 **Glide** 라이브러리를 사용하여 이미지를 로딩
 
 
@@ -50,9 +50,11 @@
 
 ✅**Firebase의 Realtime Database**를 사용하여 실시간 채팅 기능 구현
 
+##
+## BackEnd
 
-### BackEnd
-## 💼 Object Detection, Translation (BackEnd)
+### 💼 Object Detection, Translation (BackEnd)
+##
 ✅ AWS - boto3 Rekognition (Object Detection) 
 
 ✅ Naver - Papago API(Translatlation)를 이용한 자동 태그 기능 구현
