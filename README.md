@@ -27,7 +27,7 @@
 ✅ Tool
 - backend : Visual Studio Code, MySQL Workbench, Postman
 - Android : Android Studio
-- Collaboration : Slack
+- Collaboration : Slack, Postman, Github
 
 ✅ Deployment
 - Serverless Flask Framework(AWS Lambda)
